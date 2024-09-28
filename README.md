@@ -1,7 +1,7 @@
 ### EX6 Information Retrieval Using Vector Space Model in Python
-### DATE: 23-9-2024
-### NAME: DHIVYA SHRI B
-### REG NO: 212221230009
+### DATE: 28-9-2024
+### NAME: Bairav Skandan Loha
+### REG NO: 212221230010
 ### AIM: To implement Information Retrieval Using Vector Space Model in Python.
 ### Description: 
 <div align = "justify">
